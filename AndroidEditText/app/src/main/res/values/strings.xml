@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidEditText</string>
+    <string name="hint_et_inputNumber1">Enter number 1</string>
+    <string name="hint_et_inputNumber2">Enter number 2</string>
+    <string name="add_btn_txt">Add</string>
+    <string name="sub_btn_txt">SUB</string>
+</resources>

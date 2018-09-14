@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">ExpandableListviewDemo</string>
+
+    <string-array name="header">
+        <item>AAA</item>
+        <item>BBB</item>
+        <item>CCC</item>
+        <item>DDD</item>
+        <item>EEE</item>
+        <item>FFF</item>
+        <item>GGG</item>
+        <item>HHH</item>
+        <item>III</item>
+        <item>JJJ</item>
+        <item>KKK</item>
+        <item>LLL</item>
+        <item>MMM</item>
+        <item>NNN</item>
+        <item>OOO</item>
+        <item>PPP</item>
+        <item>QQQ</item>
+        <item>RRR</item>
+        <item>SSS</item>
+        <item>TTT</item>
+        <item>UUU</item>
+        <item>VVV</item>
+        <item>WWW</item>
+        <item>XXX</item>
+        <item>YYY</item>
+        <item>ZZZ</item>
+    </string-array>
+
+    <string-array name="child">
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+        <item>
+            Title
+            \n\nD E S C R I P T I O N...................................
+        </item>
+
+    </string-array>
+</resources>

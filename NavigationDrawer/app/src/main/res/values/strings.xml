@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="app_import">Import</string>
+    <string name="app_gallery">Gallery</string>
+    <string name="app_slideshow">Slideshow</string>
+    <string name="app_tools">Tools</string>
+</resources>

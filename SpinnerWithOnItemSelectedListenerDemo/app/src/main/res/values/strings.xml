@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SpinnerWithOnItemSelectedListenerDemo</string>
+
+    <string-array name="countries">
+        <item>Bangladesh</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Pakistan</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>Finland</item>
+        <item>Japan</item>
+        <item>India</item>
+        <item>Canada</item>
+        <item>Malta</item>
+    </string-array>
+
+    <string-array name="population">
+        <item>166,368,149</item>
+        <item>29,624,035 	</item>
+        <item>817,054</item>
+        <item>200,813,818</item>
+        <item>326,766,748</item>
+        <item>143,964,709</item>
+        <item>5,542,517</item>
+        <item>127,185,332</item>
+        <item>1,354,051,854</item>
+        <item>36,953,765</item>
+        <item>432,089</item>
+    </string-array>
+</resources>
